@@ -56,6 +56,6 @@ switch (comando) {
         break;
 
     default: //else
-        console.log("Comando incorrecto");
+        console.log("Comando incorrectoxd");
         break;
 }
