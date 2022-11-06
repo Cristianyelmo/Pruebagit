@@ -50,6 +50,12 @@ switch (comando) {
         console.log(buscarProducto(keyword))
 
     break
+        
+         case "editar2" :
+        keyword = process.argv[3];
+        console.log(buscarProducto(keyword))
+
+    break
 
     case undefined: //else if
         console.log("Debes ingresar un comando!!!");
